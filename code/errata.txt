@@ -1,0 +1,22 @@
+Exception:  /scratch0/swamiviv/GTA_Segnet/data/GTA-5/images/20804.png /scratch0/swamiviv/GTA_Segne
+t/data/GTA-5/labels_mapped_to_cityscapes/20804.png (1276, 697)<01:33, 34.33it/s]
+                                                                                Exception:  /scratch0/swamiviv/GTA_Segnet/data/GTA-5/images/20809.png /scratch0/swamiviv/GTA_Segne
+t/data/GTA-5/labels_mapped_to_cityscapes/20809.png (1276, 697)<01:31, 34.85it/s]
+                                                                                Exception:  /scratch0/swamiviv/GTA_Segnet/data/GTA-5/images/20811.png /scratch0/swamiviv/GTA_Segne
+t/data/GTA-5/labels_mapped_to_cityscapes/20811.png (1276, 697)<01:30, 35.14it/s]
+Exception:  /scratch0/swamiviv/GTA_Segnet/data/GTA-5/images/20812.png /scratch0/swamiviv/GTA_Segnet/data/GTA-5/labels_mapped_to_cityscapes/20812.png (1276, 697)
+Exception:  /scratch0/swamiviv/GTA_Segnet/data/GTA-5/images/20814.png /scratch0/swamiviv/GTA_Segnet/data/GTA-5/labels_mapped_to_cityscapes/20814.png (1276, 697)
+                                                                                Exception:  /scratch0/swamiviv/GTA_Segnet/data/GTA-5/images/20821.png /scratch0/swamiviv/GTA_Segne
+t/data/GTA-5/labels_mapped_to_cityscapes/20821.png (1276, 697)<01:32, 34.53it/s]
+                                                                                Exception:  /scratch0/swamiviv/GTA_Segnet/data/GTA-5/images/20831.png /scratch0/swamiviv/GTA_Segne
+t/data/GTA-5/labels_mapped_to_cityscapes/20831.png (1276, 697)<01:35, 33.26it/s]
+                                                                                Exception:  /scratch0/swamiviv/GTA_Segnet/data/GTA-5/images/20835.png /scratch0/swamiviv/GTA_Segne
+t/data/GTA-5/labels_mapped_to_cityscapes/20835.png (1276, 697)<01:30, 35.11it/s]
+Exception:  /scratch0/swamiviv/GTA_Segnet/data/GTA-5/images/20838.png /scratch0/swamiviv/GTA_Segnet/data/GTA-5/labels_mapped_to_cityscapes/20838.png (1276, 697)
+                                                                                Exception:  /scratch0/swamiviv/GTA_Segnet/data/GTA-5/images/20847.png /scratch0/swamiviv/GTA_Segne
+t/data/GTA-5/labels_mapped_to_cityscapes/20847.png (1276, 697)<01:30, 34.80it/s]
+Exception:  /scratch0/swamiviv/GTA_Segnet/data/GTA-5/images/20850.png /scratch0/swamiviv/GTA_Segnet/data/GTA-5/labels_mapped_to_cityscapes/20850.png (1276, 697)
+                                                                                Exception:  /scratch0/swamiviv/GTA_Segnet/data/GTA-5/images/20855.png /scratch0/swamiviv/GTA_Segne
+t/data/GTA-5/labels_mapped_to_cityscapes/20855.png (1276, 697)<01:29, 35.25it/s]
+                                                                                Exception:  /scratch0/swamiviv/GTA_Segnet/data/GTA-5/images/20858.png /scratch0/swamiviv/GTA_Segne
+t/data/GTA-5/labels_mapped_to_cityscapes/20858.png (1276, 697)<01:28, 35.35it/s]
